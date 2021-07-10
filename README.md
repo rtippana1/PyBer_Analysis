@@ -1,7 +1,7 @@
 # PyBer analysis
 
 ## Overview of Project
-The purpose of the project is to analyze all the rideshare data from January to early May of 2019 and create a compelling visualizations about the data.I have written python scripts using pandas library in jupyter note book and  matplotlib  to create a variety of charts to show case the relationship between the type of the city and number of drivers and riders as well as the percentage of the total fares,drivers and riders per city.The analysis and visualizations that i have produced will help PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods.
+The purpose of the project is to analyze all the rideshare data from January to early May of 2019 and create a compelling visualizations about the data.I have written python scripts using pandas library in jupyter note book and  matplotlib  to create a variety of charts to show case the relationship between the type of the city and number of drivers and riders as well as the percentage of the total fares,drivers and riders per city.The analysis and visualizations that i have produced will help PyBer to help improve access to ride-sharing services and determine affordability for underserved neighborhoods
 
 
 ### Results
